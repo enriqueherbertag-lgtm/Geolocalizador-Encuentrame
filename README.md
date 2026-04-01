@@ -1,8 +1,6 @@
 # Geolocalizador-Encuéntrame
 
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
 
 Dispositivo autónomo de localización post-impacto / pérdida, adaptable a distintos escenarios como infraestructura especial. Se activa ante una emergencia, puede separarse del objeto al que está acoplado y transmite coordenadas exactas desde el minuto 1, con autonomía extendida.
 
@@ -166,7 +164,18 @@ En todos estos casos, el dispositivo se integra como parte de la infraestructura
 
 ## Licencia
 
-Apache 2.0 con restriccion de uso comercial.
+Copyright © 2026 Enrique Aguayo. Todos los derechos reservados.
+
+Este proyecto está protegido por derechos de autor.  
+**Uso no comercial** (educativo o de investigación) está permitido siempre que se dé crédito al autor.
+
+**Uso comercial** (incluyendo ofrecerlo como servicio, SaaS, o integrarlo en productos que generen ingresos) **requiere autorización expresa** del autor.
+
+Para licencias empresariales, soporte o consultas comerciales, contacta a:  
+**[eaguayo@migst.cl](mailto:eaguayo@migst.cl)**
+
+Ver archivo [LICENSE](LICENSE) para términos completos.
+
 
 ## Autor
 
