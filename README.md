@@ -1,5 +1,6 @@
 # Geolocalizador-Encuéntrame
 
+![Uploading image.png…]()
 
 
 Dispositivo autónomo de localización post-impacto / pérdida, adaptable a distintos escenarios como infraestructura especial. Se activa ante una emergencia, puede separarse del objeto al que está acoplado y transmite coordenadas exactas desde el minuto 1, con autonomía extendida.
