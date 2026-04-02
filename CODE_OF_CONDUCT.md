@@ -1,38 +1,29 @@
-# Codigo de Conducta para Colaboradores
+# Código de Conducta para Colaboradores
 
 ## Nuestro Compromiso
 
-En interes de fomentar un ambiente abierto y acogedor, nosotros como colaboradores y mantenedores nos comprometemos a hacer de la participacion en nuestro proyecto y nuestra comunidad una experiencia libre de acoso para todos, independientemente de la edad, dimension corporal, discapacidad, etnia, caracteristicas sexuales, identidad y expresion de genero, nivel de experiencia, educacion, estatus socio-economico, nacionalidad, apariencia personal, raza, religion, o identidad u orientacion sexual.
+En interés de fomentar un ambiente abierto y acogedor, nosotros como colaboradores y mantenedores nos comprometemos a hacer de la participación en nuestro proyecto y nuestra comunidad una experiencia libre de acoso para todos.
 
-## Nuestros Estandares
+## Nuestros Estándares
 
 Ejemplos de comportamiento que contribuyen a crear un ambiente positivo:
 
 - Uso de lenguaje amable e inclusivo
 - Respeto a diferentes puntos de vista y experiencias
-- Aceptacion de critica constructiva
+- Aceptación de crítica constructiva
 - Enfocarse en lo que es mejor para la comunidad
-- Mostrar empatia hacia otros miembros
+- Mostrar empatía hacia otros miembros
 
-Ejemplos de comportamiento inaceptable:
+## Aplicación
 
-- Uso de lenguaje o imagenes sexualizadas y atencion sexual no deseada
-- Comentarios insultantes o despectivos (trolling) y ataques personales o politicos
-- Acoso publico o privado
-- Publicacion de informacion privada sin permiso explicito
-- Otras conductas que pudieran considerarse inapropiadas en un entorno profesional
+Instancias de comportamiento abusivo, acosador o inaceptable pueden ser reportadas contactando al equipo de mantenedores.
 
-## Nuestras Responsabilidades
+## Atribución
 
-Los mantenedores del proyecto son responsables de aclarar los estandares de comportamiento aceptable y tomar medidas correctivas apropiadas.
+Este Código de Conducta es una adaptación del Contributor Covenant, versión 1.4.
 
-## Alcance
-
-Este Codigo de Conducta aplica dentro de los espacios del proyecto y en espacios publicos cuando un individuo esta representando al proyecto.
-
-## Aplicacion
-
-Instancias de comportamiento abusivo, acosador o inaceptable pueden ser reportadas contactando al equipo de mantenedores. Todas las quejas seran revisadas e investigadas.
+## Versión
+1.0 - Adoptado con el lanzamiento inicial
 
 ## Atribucion
 
