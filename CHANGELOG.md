@@ -1,16 +1,14 @@
 # Registro de Cambios
 
-## [0.1.0] - 2026-03-31
+## [1.0.0] - 2026-04-02
 
 ### Agregado
-- Creacion inicial del repositorio
-- Documentacion base del proyecto
-- Estructura de carpetas para codigo, documentacion y recursos
-- Licencia y archivos de contribucion
-- Configuracion inicial para desarrollo
+- Versión inicial del proyecto.
+- Documentación completa (README, estructura de carpetas).
+- Licencia propietaria con restricción comercial.
+- Archivos base: CODE_OF_CONDUCT, CONTRIBUTING, SECURITY.
 
-### Proximos pasos
-- [ ] Completar documentacion tecnica
-- [ ] Implementar funcionalidades base
-- [ ] Configurar integracion continua
-- [ ] Agregar pruebas unitarias
+### Próximos pasos
+- [ ] Prototipo funcional.
+- [ ] Validación técnica.
+- [ ] Publicación en Zenodo.
