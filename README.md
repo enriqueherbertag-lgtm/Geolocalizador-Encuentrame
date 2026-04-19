@@ -1,14 +1,18 @@
-# Geolocalizador-Encuéntrame: Localización de emergencia para aviación y marítimo
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19362636.svg)](https://doi.org/10.5281/zenodo.19362636)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![EN](https://img.shields.io/badge/English-version-blue.svg)](./README.en.md)
 
-Cuando un avión se estrella en el mar o un barco se hunde, los localizadores tradicionales (ELT, EPIRB) se hunden con la nave. La búsqueda puede durar días o semanas. Las coordenadas son imprecisas (kilómetros de error).
+# Geolocalizador-Encuéntrame: Localización de emergencia para aviación y marítimo
+
+**Diseñado para que ningún avión vuelva a perderse.**
+
+Aviones como el MH370 desaparecen sin dejar rastro. Cuando un avión se estrella en el mar o un barco se hunde, los localizadores tradicionales (ELT, EPIRB) se hunden con la nave. La búsqueda puede durar días o semanas. Las coordenadas son imprecisas (kilómetros de error).
 
 Geolocalizador-Encuéntrame resuelve ese problema.
 
 ## Que hace
+
+El dispositivo se instala en aeronaves o embarcaciones... (resto igual)
 
 El dispositivo se instala en aeronaves o embarcaciones. Ante un accidente inminente, se eyecta o se libera automáticamente. Flota. Transmite coordenadas GPS exactas (2.5 cm de precisión) desde el primer minuto, durante más de 30 días.
 
