@@ -12,8 +12,6 @@ Geolocalizador-Encuéntrame resuelve ese problema.
 
 ## Que hace
 
-El dispositivo se instala en aeronaves o embarcaciones... (resto igual)
-
 El dispositivo se instala en aeronaves o embarcaciones. Ante un accidente inminente, se eyecta o se libera automáticamente. Flota. Transmite coordenadas GPS exactas (2.5 cm de precisión) desde el primer minuto, durante más de 30 días.
 
 **Versiones principales:**
