@@ -1,12 +1,14 @@
-# Geolocalizador-Encuéntrame: Emergency localization for aviation and maritime
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19362636.svg)](https://doi.org/10.5281/zenodo.19362636)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![ES](https://img.shields.io/badge/Spanish-version-green.svg)](./README.md)
 
-When a plane crashes into the sea or a ship sinks, traditional locators (ELT, EPIRB) sink with the vessel. Search efforts can take days or weeks. Coordinates are imprecise (kilometers of error).
+# Geolocalizador-Encuéntrame: Emergency location for aviation and maritime
 
-Geolocalizador-Encuéntrame solves that problem.
+**Designed so that no plane ever gets lost again.**
+
+Aircraft like MH370 disappear without a trace. When a plane crashes into the sea or a ship sinks, traditional locators (ELT, EPIRB) go down with the vessel. The search can take days or weeks. Coordinates are inaccurate (kilometers of error).
+
+Geolocalizador-Encuéntrame solves this problem.
 
 ## What it does
 
